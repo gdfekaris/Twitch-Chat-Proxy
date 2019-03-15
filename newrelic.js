@@ -9,11 +9,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['SDC Proxy - EC2'],
+  app_name: ['Menu-bar-service LOCAL'],
   /**
    * Your New Relic license key.
    */
-  license_key: '6b123fbc5bcfd1422a9208b6c66f9eae259cdadc',
+  license_key: 'cad669dc6d02c6d3b57518da7082ebbdd29be7b8',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
